@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Prajapati
-- 👀 I’m interested in App development and tech-related stuff
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Blockchain development and tech-related stuff
+- 🌱 I’m currently learning Blokchain Technology
 - 💞️ I’m currently working with JAMZtudioz.
 - 📫 How to reach me https://www.linkedin.com/in/shubham-prajapati-571896186/
 - 😄 Pronouns: He/His
