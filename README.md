@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Shubham Prajapati
+# Hola, I'm Shubham Prajapati
+
+
 - 👀 I’m interested in Blockchain development and tech-related stuff
 - 🌱 I’m currently learning Blokchain Technology
 - 💞️ 1.5 Years working with JAMZtudioz.
