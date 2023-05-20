@@ -74,6 +74,42 @@ I'm Shubham Prajapati, an enthusiastic learner exploring new fields and trying t
 </details>
 
 
+<details>
+<summary>
+ <h2 align="center">🎖 Github stats </h2>
+ </summary>
+      <br/>
+        <p align="center">
+          <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprajapati241&langs_count=6&layout=compact&hide_border=true&theme=react" target="_blank" rel="noreferrer">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprajapati241&langs_count=6&layout=compact&hide_border=true&theme=react" 
+          alt="shubhamprajapati241 :: Top Langs" /></a>
+          <a href="https://activity-graph.herokuapp.com/graph?username=shubhamprajapati241&area=true&point=transparent&theme=react-dark" target="_blank" rel="noreferrer">
+          <img width="49.5%" alt="shubhamprajapati241 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamprajapati241&area=true&point=transparent&theme=react-dark" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github-readme-stats.vercel.app/api?username=shubhamprajapati241&show_icons=true&hide_border=true&theme=react" target="_blank" rel="noreferrer">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shubhamprajapati241&show_icons=true&hide_border=true&theme=react" alt="shubhamprajapati241" />
+	  </a>
+	  <a href="https://github-readme-streak-stats.herokuapp.com/?user=shubhamprajapati241&theme=react" target="_blank" rel="noreferrer">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamprajapati241&theme=react" alt="shubhamprajapati241" />
+          </a>
+       </p>
+       <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" target="_blank" rel="noreferrer">
+       	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+	</a>
+  <br>
+       <p align="center">
+       	 <a href="https://github-profile-trophy.vercel.app/?username=shubhamprajapati241" target="_blank" rel="noreferrer">
+          <img width="90%" src="https://github-profile-trophy.vercel.app/?username=shubhamprajapati241" />
+	  </a>
+       </p>
+     <br>
+     </details>
+
+  <br>
+  
+
 
   <h2 align="center">📞 You can reach out to me by:</h2>
     <p align="center">
