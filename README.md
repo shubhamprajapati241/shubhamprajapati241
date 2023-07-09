@@ -7,7 +7,7 @@ I'm Shubham Prajapati, an enthusiastic learner exploring new fields and trying t
 </p> -->
 
 
-- 🧛 I am a 23 years old Full Stack Web Developer based out of Mumbai. 
+- 🧛 I am a 23 years old Full Stack Web Developer based out of Hyderabad, India. 
 - 👯 I describe myself as a passionate developer who loves ❤️ coding and chai ☕.
 - 👀 I’m currently learning Blockchain, Writing Smart contracts in solidity
 - 🌱 Developing genuine connections with people is something I value deeply.
