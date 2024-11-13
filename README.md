@@ -120,22 +120,11 @@ I'm Shubham Prajapati, an enthusiastic learner exploring new fields and trying t
       <a href="https://mailto:shubhamprajapati7748@gmail.com" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="shubhamprajapati" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/shubhamprajapati241" target="_blank" rel="noreferrer"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="shubhamprajapati" height="30"/></a>
-      <a href="https://wa.me/+918369173723" target="_blank" rel="noreferrer"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="shubhamprajapati" height="30"/></a>
-      <a href="https://twitter.com/0xprajapati" target="_blank" rel="noreferrer"><img align="center"
+        <a href="https://twitter.com/0xprajapati" target="_blank" rel="noreferrer"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="shubhamprajapati" height="30"/></a>
-      <br>
     </p>
-
-
-
+ 
 
 
 <!---
