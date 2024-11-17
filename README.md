@@ -13,9 +13,7 @@
 ## 🛠 Tech Stack
 ⚙️   Machine Learning | AI
 
-⚙️   Blockchain | Solidity
-
-🌐   Hyperledger | Corda
+🌐   Hyperledger | Corda Blockchain
 
 💻   React | JavaScript | HTML | CSS | TailwindCSS
 
