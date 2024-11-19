@@ -2,7 +2,7 @@
 
 🧛 25-year-old Full Stack Web Wizard in the heart of Mumbai, India.
 
-💻 Passionate about crafting code, ☕ sipping coffee, and 🌍 exploring the world
+💻 Passionate about crafting code, ☕ sipping tea, and 🌍 exploring the world
 
 🔗 Currently exploring the world of Generative AI and developing Machine Learning models.
 
